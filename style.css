@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+h1, h2 {
+    color: #3498db; 
+}
+
+#login-form, #signup-form {
+    margin-top: 20px;
+}
+
+input, button {
+    margin: 5px;
+}
